@@ -1,0 +1,241 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Navigation Bar</title>
+</head>
+<body>
+    <nav>
+        <ul>
+            <li><a href="#">Rachel Miller </a></li>
+            <li><a href="https://necessary-takeaways-923039.framer.app/about-me">About</a></li>
+            <li><a href="https://docs.google.com/document/d/1DTnt0qKO4tf4HK7WJDsLFf4E20BwgK_zPfh6KhoPooY/edit">Resume</a></li>
+            <li><a href="https://necessary-takeaways-923039.framer.app/">Work</a></li>
+        </ul>
+    </nav>
+</body>
+</html>
+
+
+    <h1>Hi, I’m Rachel, a product designer that has outstanding taste in art.</h1>
+
+    </body>
+
+    </html>
+
+    <!DOCTYPE html>
+    <html>
+
+    <head>
+      <style>
+        .flex-container {
+          display: flex;
+          flex-direction: column;
+        }
+
+        .flex-container>div {
+          background-color: #f1f1f1;
+          width: 150px;
+          margin: 6px;
+          text-align: center;
+          line-height: 50px;
+          font-size: 30px;
+        }
+      </style>
+    </head>
+
+    <body>
+
+      <div class="flex-container">
+        <h2>Bunny World Foundations</h2>
+        <a href="<iframe src="https://giphy.com/embed/a039frpdaNg8qIzlz9" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/a039frpdaNg8qIzlz9></a></p>"><iframe src="https://giphy.com/embed/a039frpdaNg8qIzlz9" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/a039frpdaNg8qIzlz9"></a></p></a>
+        <h4>Bunny World Foundations / UX Design <h4>
+            <p>The redesign of a non-profit website to save bunnies that were being sold illegally
+              and spread awareness about them, selling them but also adopting them. </p>
+      </div>
+
+      <div class="flex-container">
+        <h2>Loop</h2>
+        <a href="<iframe src="https://giphy.com/embed/hfrwzAzw1iZq5xH1fv" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/hfrwzAzw1iZq5xH1fv></a></p>"><iframe src="https://giphy.com/embed/hfrwzAzw1iZq5xH1fv" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/hfrwzAzw1iZq5xH1fv"></a></p></a>
+        <h4>Loop/UX/UI Design <h4>
+            <p>Loop is an app designed to pay before you park in public parking spaces, where busy places have limited options for parking. </p>
+      </div>
+
+      <div class="flex-container">
+        <h2>TAV</h2>
+        <a href="<iframe src="https://giphy.com/embed/6xpHFmOmxNqSFyoKkd" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/6xpHFmOmxNqSFyoKkd></a></p>"><iframe src="https://giphy.com/embed/6xpHFmOmxNqSFyoKkd" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/6xpHFmOmxNqSFyoKkd"></a></p></a>
+        <h4>TAV/UX/UI Design<h4>
+            <p>TAV is an app design where you can easily decide what activities to do in a group of people wanting to travel and also budget for easy planning. </p>
+      </div>
+
+    </body>
+
+    </html>
+
+    
+
+    <div class="row">
+      <div class="column" style="background-color:#aaa;">
+        <h2>My UX Skills</h2>
+        <p>My UX skills would be more research-oriented, as in making a prota persona,ideas about others for apps or websites,storyboarding,interviewing. skething,wireframing,prototyping,making vision boards, and color theory and matching.</p>
+      </div>
+      <div class="column" style="background-color:#bbb;">
+        <h2>User Interface Skills </h2>
+        <p>My skills for the user interface are skething,wireframing,prototyping,making vision boards, and color theory and matching.</p>
+      </div>
+    </div>
+
+      <div class="row">
+      <div class="column" style="background-color:#aaa;">
+        <h2>My UX Skills</h2>
+        <p>My UX skills would be more research-oriented, as in making a prota persona,ideas about others for apps or websites,storyboarding,interviewing. skething,wireframing,prototyping,making vision boards, and color theory and matching.</p>
+      </div>
+
+   
+
+    <h2>About</h2>
+
+    <h4 style="text-align:left;">Hello, let me tell you a little bit about myself. I enjoy creating art occasionally, and you can see my work throughout. I'm also occasionally interested in fashion and creating small pieces of clothing. Please get in touch with me if you want to collaborate.</h4>
+
+    <a href="Racheldm421@gmail.com" </a>
+      <p><a href="Racheldm421@gmail.com">Racheldm421@gmail.com</a></p>
+
+      <a href="Racheldm421@gmail.com" </a>
+        <p><a <p><a href="https://docs.google.com/document/d/1DTnt0qKO4tf4HK7WJDsLFf4E20BwgK_zPfh6KhoPooY/edit">Resume</a></p>
+
+        <a href="Racheldm421@gmail.com" </a>
+          <p><a <p><a href="www.linkedin.com/in/
+rachel-m-160969267">Linkedin</a></p>
+
+          </body>
+
+          </html>
+
+          <div class="flex-container">
+            <p>@2024 Rachel Miller All rights reserved.</p>
+            <div>
+              </body>
+
+              </html>
+
+
+              //**CSS**//
+
+
+              body {
+    margin: 0;
+    padding: 7;
+}
+
+nav {
+    background-color: #F6BA65; 
+}
+
+ul {
+    list-style-type: none; 
+  list styles 
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+li {
+    float: left; /* Make list items float horizontally */
+}
+
+
+a {
+    display: block;
+    color: #061117; 
+    text-align: center; 
+    padding: 14px 16px; 
+    text-decoration: underline; 
+}
+
+a:hover {
+    background-color: #555; 
+}
+
+
+
+h1 {
+  text-align: center;
+}
+
+
+
+
+.flex-container {
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #f8f8f8;
+    border: 1px solid #ddd;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+
+
+h2 {text-align: center;}
+h4 {text-align: center;} 
+max-width: 600px;
+    margin: 50px auto;
+    padding: 20px;
+{
+  
+
+.column {
+  float: center;
+  margin:50xp auto;
+  width: 50%;
+  padding: 20px;
+  height: 200px; 
+}
+  
+
+
+
+.column {
+  width: 50%; 
+  margin: 0 auto;
+  text-align: center; 
+}
+
+.row:after {
+  display: row;
+  clear: both;
+  {
+    
+
+  //**Bootstrap**//
+
+  
+
+<body data-spy="scroll" data-target=".navbar" data-offset="50">
+
+<nav class="navbar navbar-inverse navbar-fixed-top">
+  <ul class="nav navbar-nav">
+    
+</nav>
+
+<title>Bootstrap Example</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+</head>
+<body>
+
+
+
+
+
+
+  
+    
